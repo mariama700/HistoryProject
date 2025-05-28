@@ -20,7 +20,7 @@ public class Main{
         } else if (num == 3){
             president = three; 
             LBJ.lbj(); 
-            System.out.println(""); 
+            System.out.println("Jumbo"); 
         } else {
             president = four; 
             Carter.carter(); 
